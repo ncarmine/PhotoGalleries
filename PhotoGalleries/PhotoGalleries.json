@@ -1,0 +1,69 @@
+{
+  "colors":[
+    {"filename": "red", "title": "Red", "caption": "This is the color red."},
+    {"filename": "maroon", "title": "Maroon", "caption": "This is the color maroon."},
+    {"filename": "yellow", "title": "Yellow", "caption": "This is the color yellow."},
+    {"filename": "olive", "title": "Olive", "caption": "This is the color olive."},
+    {"filename": "lime", "title": "Lime", "caption": "This is the color lime."},
+    {"filename": "green", "title": "Green", "caption": "This is the color green."},
+    {"filename": "aqua", "title": "Aqua", "caption": "This is the color aqua."},
+    {"filename": "teal", "title": "Teal", "caption": "This is the color teal."},
+    {"filename": "blue", "title": "Blue", "caption": "This is the color blue."},
+    {"filename": "navy", "title": "Navy", "caption": "This is the color navy."},
+    {"filename": "fuchsia", "title": "Fuchsia", "caption": "This is the color fuchsia."},
+    {"filename": "purple", "title": "Purple", "caption": "This is the color purple."},
+    {"filename": "white", "title": "White", "caption": "This is the color white."},
+    {"filename": "silver", "title": "Silver", "caption": "This is the color silver."},
+    {"filename": "gray", "title": "Gray", "caption": "This is the color gray."}
+  ],
+  "hiking":[
+    {"filename": "deer_creek_hills", "title": "Deer Creek Hills", "caption": "A view of some hills at Deer Creek."},
+    {"filename": "deer_creek_rock", "title": "Cool Rock", "caption": "A pretty cool rock at Deer Creek."},
+    {"filename": "deer_creek_town", "title": "Deer Creek Town", "caption": "A view of the town at Deer Creek."},
+    {"filename": "deer_creek_trees", "title": "Nice Trees", "caption": "Some nice trees at Deer Creek."},
+    {"filename": "flatiron_trees", "title": "Flatiron Trees", "caption": "Trees in the Flatirons."},
+    {"filename": "flatiron", "title": "Flatiron", "caption": "A nice looking Flatiron."},
+    {"filename": "grass", "title": "Grass on a Hike", "caption": "Some grass and plants on a hike. I don't know what kind of flowers those are."},
+    {"filename": "menkick", "title": "Menkick House", "caption": "An iconic mid-century mod by celebrated organic architect Charles A. Haertling has hit the market in Boulder, Colorado. Known as the 'Menkick House', Haertling’s award-winning Usonian design has been made available for the first time in 30 years, and comes with a list price of $6.5 million.\n\nCompleted in 1970, Haertling built the Menkick House around a natural rock outcropping found on the property’s 1.1 acre lot in West Boulder, shaping it in a manner in which the tiers of the four-story home align with the three most prominent stone masses. The resulting ebb and flow of the design not only showcases the 'Gyp Rock', but also creates a contrast in ambiance between the two wings of the 5,780-square-foot home, all the while showcasing stunning views of the Flatirons, Red Rock and Mount Sanitas.\n\nThree of the home’s four bedrooms, along with the kitchen, family room, media room and an art studio, are found in the northern wing. Adjacent to the kitchen and dining area is an impressive cantilever balcony and patio that overlooks the creek. The master suite connects with the rock face through a pierced, split-roof balcony, and comes complete with a bathroom lined with glass windows that give way to the surrounding landscapes.\n\nsource: http://www.realtor.com/news/charles-a-haertling-menkick-house-boulder-colorado-photos/"},
+    {"filename": "Roxborough_rocks1", "title": "Rockborough Rocks 1", "caption": "Some nice looking rocks: part 1 of 2."},
+    {"filename": "Roxborough_rocks2", "title": "Rockborough Rocks 2", "caption": "Some nice looking rocks: part 2 of 2."},
+    {"filename": "Roxborough_trees", "title": "Rockborough Trees", "caption": "Some nice looking trees at Roxborough."},
+    {"filename": "vulture", "title": "Vulture", "caption": "A cool vulture at the top of a long hike."}
+  ],
+  "hiking2":[
+    {"filename": "deer_creek_hills2", "title": "Deer Creek Hills", "caption": "A view of some hills at Deer Creek."},
+    {"filename": "deer_creek_rock2", "title": "Cool Rock", "caption": "A pretty cool rock at Deer Creek."},
+    {"filename": "deer_creek_town2", "title": "Deer Creek Town", "caption": "A view of the town at Deer Creek."},
+    {"filename": "deer_creek_trees2", "title": "Nice Trees", "caption": "Some nice trees at Deer Creek."},
+    {"filename": "flatiron_trees2", "title": "Flatiron Trees", "caption": "Trees in the Flatirons."},
+    {"filename": "flatiron2", "title": "Flatiron", "caption": "A nice looking Flatiron."},
+    {"filename": "grass2", "title": "Grass on a Hike", "caption": "Some grass and plants on a hike. I don't know what kind of flowers those are."},
+    {"filename": "menkick2", "title": "Menkick House", "caption": "An iconic mid-century mod by celebrated organic architect Charles A. Haertling has hit the market in Boulder, Colorado. Known as the 'Menkick House', Haertling’s award-winning Usonian design has been made available for the first time in 30 years, and comes with a list price of $6.5 million.\n\nCompleted in 1970, Haertling built the Menkick House around a natural rock outcropping found on the property’s 1.1 acre lot in West Boulder, shaping it in a manner in which the tiers of the four-story home align with the three most prominent stone masses. The resulting ebb and flow of the design not only showcases the 'Gyp Rock', but also creates a contrast in ambiance between the two wings of the 5,780-square-foot home, all the while showcasing stunning views of the Flatirons, Red Rock and Mount Sanitas.\n\nThree of the home’s four bedrooms, along with the kitchen, family room, media room and an art studio, are found in the northern wing. Adjacent to the kitchen and dining area is an impressive cantilever balcony and patio that overlooks the creek. The master suite connects with the rock face through a pierced, split-roof balcony, and comes complete with a bathroom lined with glass windows that give way to the surrounding landscapes.\n\nsource: http://www.realtor.com/news/charles-a-haertling-menkick-house-boulder-colorado-photos/"},
+    {"filename": "Roxborough_rocks1_2", "title": "Rockborough Rocks 1", "caption": "Some nice looking rocks: part 1 of 2."},
+    {"filename": "Roxborough_rocks2_2", "title": "Rockborough Rocks 2", "caption": "Some nice looking rocks: part 2 of 2."},
+    {"filename": "Roxborough_trees2", "title": "Rockborough Trees", "caption": "Some nice looking trees at Roxborough."},
+    {"filename": "vulture2", "title": "Vulture", "caption": "A cool vulture at the top of a long hike."}
+  ],
+  "colorsCat":{
+    "Warm Colors":[
+      {"filename": "red", "title": "Red", "caption": "This is the color red."},
+      {"filename": "maroon", "title": "Maroon", "caption": "This is the color maroon."},
+      {"filename": "yellow", "title": "Yellow", "caption": "This is the color yellow."},
+      {"filename": "olive", "title": "Olive", "caption": "This is the color olive."}
+    ],
+    "Cool Colors":[
+      {"filename": "lime", "title": "Lime", "caption": "This is the color lime."},
+      {"filename": "green", "title": "Green", "caption": "This is the color green."},
+      {"filename": "aqua", "title": "Aqua", "caption": "This is the color aqua."},
+      {"filename": "teal", "title": "Teal", "caption": "This is the color teal."},
+      {"filename": "blue", "title": "Blue", "caption": "This is the color blue."},
+      {"filename": "navy", "title": "Navy", "caption": "This is the color navy."}
+    ],
+    "Grays":[
+      {"filename": "white", "title": "White", "caption": "This is the color white."},
+      {"filename": "silver", "title": "Silver", "caption": "This is the color silver."},
+      {"filename": "gray", "title": "Gray", "caption": "This is the color gray."}
+    ]
+  },
+  "default":[{"filename": "white", "title": "White", "caption": "This is the color white. (Default Photo)"}]
+}
